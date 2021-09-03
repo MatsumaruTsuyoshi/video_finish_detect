@@ -1,16 +1,7 @@
 # video_finish_detect
 
-A new Flutter application.
+動画ファイルの、再生、終了の検知を実装
 
-## Getting Started
+動画の再生中はボタンが無効化、動画再生終了後にボタンが有効化される
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FlutterWeb,android,iosで動作確認済み
